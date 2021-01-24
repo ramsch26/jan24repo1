@@ -16,7 +16,7 @@ public class Myjavagit {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        System.out.println("heelo this git reporsitory");
+        System.out.println("heelo this git reporsitory changed");
     }
     
 }
